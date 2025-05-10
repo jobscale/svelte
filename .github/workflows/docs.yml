@@ -2,7 +2,7 @@ name: Docs
 
 on:
   # schedule:
-  # - cron: '15 17 * * 1'
+  # - cron: '14 17 * * 1'
   push:
     branches:
       - master
